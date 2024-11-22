@@ -20,7 +20,7 @@ Este projeto é uma aplicação simples e interativa que permite aos usuários t
 
 Gostaria de explorar o WaveCast? Clique no botão abaixo para acessar o site.
 
-[![Teste Agora](https://github.com/RIZONCIO/AluraBoock/assets/61835786/591c23f3-b634-4a42-8dd2-d3d936ae8a78)](https://alura-midi-lyart-ten.vercel.app/)
+[![Teste Agora](https://github.com/RIZONCIO/AluraBoock/assets/61835786/591c23f3-b634-4a42-8dd2-d3d936ae8a78)](https://alura-midi-virid.vercel.app/)
 
 ## Agradecimentos
 
