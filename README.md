@@ -16,12 +16,6 @@ Este projeto é uma aplicação simples e interativa que permite aos usuários t
 - **Página Principal**: Um formulário simples para enviar feedback e sugestões.
 ![Página Principal](https://github.com/user-attachments/assets/f5edc6ea-afb7-4710-bf22-4e9f6744d449)
 
-## Teste oAlura-Midi!
-
-Gostaria de explorar o WaveCast? Clique no botão abaixo para acessar o site.
-
-[![Teste Agora](https://github.com/RIZONCIO/AluraBoock/assets/61835786/591c23f3-b634-4a42-8dd2-d3d936ae8a78)](https://alura-midi-virid.vercel.app/)
-
 ## Agradecimentos
 
 Este projeto foi desenvolvido durante um curso na **Alura**, que proporcionou a base e o conhecimento para sua construção.
