@@ -13,7 +13,7 @@ Este projeto é uma aplicação simples e interativa que permite aos usuários t
 - **Interatividade**: Toque notas Musicais.
 - **Botões Visuais**: Clique nos botões para ativar os sons dos instrumentos.
 
-- **Página Principal**: Um formulário simples para enviar feedback e sugestões.
+- **Página Principal**: Todos os e efeito sonororas !
 ![Página Principal](https://github.com/user-attachments/assets/f5edc6ea-afb7-4710-bf22-4e9f6744d449)
 
 ## Agradecimentos
